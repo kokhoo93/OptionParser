@@ -1,0 +1,14 @@
+{
+  "name": "optionParser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optionParser.js",
+  "scripts": {
+    "test": "jest optionParser.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
